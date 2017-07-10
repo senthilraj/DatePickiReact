@@ -5,7 +5,7 @@ Clean and simple UX Datepicker for React js component
 Include DatePickiReact.jsx and DatePickiReact.css files into your React application
 
 Call component : 
-<DatePickiReact month="07" year="2017" format="MM/DD/YYYY"></DatePickiReact>
+&lt;DatePickiReact month="07" year="2017" format="MM/DD/YYYY"&gt;&lt;/DatePickiReact&gt;
 
 
 Options:
